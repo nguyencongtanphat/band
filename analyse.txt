@@ -1,0 +1,10 @@
+trang onepage
+1.Phân tích
++header
++slider
++content
+	-giới thiệu
+	-tour
+	-contact
+	-image
++footer
